@@ -1,3 +1,2 @@
-Repositorio: https://github.com/mooooorc/2DAW_Cliente/tree/main/ejercicios/arrays
-
-Publicación: https://mooooorc.github.io/2DAW_Cliente/arrays/
+Repositorio: https://github.com/mooooorc/2DAW_Cliente/tree/main/ejercicios
+Publicación: https://mooooorc.github.io/2DAW_Cliente
